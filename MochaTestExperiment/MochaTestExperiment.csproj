@@ -97,6 +97,7 @@
     <Content Include="Scripts\require.js" />
     <Content Include="Scripts\sinon-chai.js" />
     <Content Include="Scripts\sinon-server-1.13.0.js" />
+    <Content Include="Scripts\Test\global-chai-assert.js" />
     <Content Include="Scripts\Test\test.js" />
     <Content Include="Web.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
@@ -118,6 +119,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Scripts\Test\chutzpah.json" />
+    <None Include="Scripts\Test\mocha.opts" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

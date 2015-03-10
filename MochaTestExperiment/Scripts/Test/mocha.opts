@@ -1,0 +1,2 @@
+﻿--globals 'assert'
+--require global-chai-assert
